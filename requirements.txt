@@ -1,0 +1,12 @@
+panel==0.14.4
+pandas==1.5.3
+joblib
+sentence_transformers
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.0.0+cpu
+plotly==5.12.0
+snowflake-connector-python 
+snowflake-connector-python[pandas] 
+snowflake-sqlalchemy
+azure-identity
+azure-keyvault-secrets
